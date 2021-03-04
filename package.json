@@ -15,9 +15,9 @@
         "multipool",
         "multicoin"
     ],
-    "homepage": "https://github.com/John-Tonny/node-merged-pool",
+    "homepage": "https://github.com/vpubchain/node-merged-pool",
     "bugs": {
-        "url": "https://github.com/John-Tonny/node-merged-pool/issues"
+        "url": "https://github.com/vpubchain/node-merged-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Daniel Beal",
@@ -31,7 +31,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/John-Tonny/node-merged-pool.git"
+        "url": "https://github.com/vpubchain/node-merged-pool.git"
     },
     "dependencies": {
         "unomp-multi-hashing": "*",
